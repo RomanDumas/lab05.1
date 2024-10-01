@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A4F71D4-7930-42BA-A590-C4296A7C821B}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A4F71D4-7930-42BA-A590-C4296A7C821B}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2326BD0B-A1F0-433B-B316-EBFBE986EF7D}|LR5.1\\LR5.1.vcxproj|C:\\Users\\hp\\source\\repos\\LR5.1\\LR5.1\\LR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2326BD0B-A1F0-433B-B316-EBFBE986EF7D}|LR5.1\\LR5.1.vcxproj|solutionrelative:LR5.1\\LR5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR5.1\\UnitTest1\\UnitTest1.cpp*",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-01T19:27:22.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LR5.1.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR5.1\\LR5.1\\LR5.1.cpp",
               "RelativeDocumentMoniker": "LR5.1\\LR5.1.cpp",
-              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR5.1\\LR5.1\\LR5.1.cpp*",
-              "RelativeToolTip": "LR5.1\\LR5.1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR5.1\\LR5.1\\LR5.1.cpp",
+              "RelativeToolTip": "LR5.1\\LR5.1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-01T16:56:16.555Z",
               "EditorCaption": ""
